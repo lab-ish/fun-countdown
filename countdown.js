@@ -39,7 +39,7 @@ function resize_display() {
     /* 行の高さはフォントの高さの1.5倍 */ 
     $('#abst').css('line-height', aheight+'px');
     $('#abst').css('font-size', aheight*2/3+'px');
-    var dheight=Math.min(height*10/18, width/3);
+    var dheight=Math.min(height*10/18, width/4);
     $('#day').css('top', aheight+'px');
     $('#day').css('line-height', dheight+'px');
     $('#day').css('font-size', dheight+'px');
