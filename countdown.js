@@ -35,15 +35,15 @@ $(function() {
 function resize_display() {
     var height=$('body').height();
     var width=$('body').width();
-    var aheight=Math.min(height/6, width/7);
+    var aheight=Math.min(height/6, width/6.7);
     /* 行の高さはフォントの高さの1.5倍 */ 
     $('#abst').css('line-height', aheight+'px');
     $('#abst').css('font-size', aheight*2/3+'px');
-    var dheight=Math.min(height*10/18, width/4);
+    var dheight=Math.min(height*10/18, width/3);
     $('#day').css('top', aheight+'px');
     $('#day').css('line-height', dheight+'px');
     $('#day').css('font-size', dheight+'px');
-    var theight=Math.min(height*5/18, width/3);
+    var theight=Math.min(height*5/18, width/3.4);
     $('#time').css('top', aheight+dheight+'px');
     $('#time').css('font-size', theight*2/3+'px');
 }
