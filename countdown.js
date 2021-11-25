@@ -35,7 +35,7 @@ $(function() {
 function resize_display() {
     var height=$('body').height();
     var width=$('body').width();
-    var aheight=Math.min(height/6, width/6);
+    var aheight=Math.min(height/6, width/7);
     /* 行の高さはフォントの高さの1.5倍 */ 
     $('#abst').css('line-height', aheight+'px');
     $('#abst').css('font-size', aheight*2/3+'px');
