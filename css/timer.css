@@ -31,9 +31,6 @@ html, body {
     height:100%;
     overflow: hidden;
 }
-body {
-    background: black;
-}
 .timer {
     font-family: sans-serif;
     font-weight: bold;
