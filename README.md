@@ -25,6 +25,7 @@
 * `sotsuron.html`
 * `shuron-presen.html`
 * `sotsuron-presen.html`
+* `in-suisen.html`
 
 ## Contribute
 
@@ -37,4 +38,4 @@
 
 All the source files are released under the BSD 3-clause license. See `LICENSE.txt`.
 
-* Copyright (c) 2014-2021 Shigemi ISHIDA
+* Copyright (c) 2014-2022 Shigemi ISHIDA
