@@ -19,13 +19,7 @@
 * Safari 15
 * Chrome 96.0.4664.55
 
-カウントダウン締切日時は、以下のファイルにそれぞれ書かれています。
-年度が変わった場合はこれらのファイルを更新する必要があります。
-* `shuron.html`
-* `sotsuron.html`
-* `shuron-presen.html`
-* `sotsuron-presen.html`
-* `in-suisen.html`
+カウントダウン締切日時は、各HTMLファイルにそれぞれ書かれています。
 
 ## Contribute
 
