@@ -1,4 +1,4 @@
-Copyright (c) 2014-2022, Shigemi ISHIDA
+Copyright (c) 2014-2023, Shigemi ISHIDA
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
